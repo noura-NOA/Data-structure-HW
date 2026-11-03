@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class App 
 {
   
-  static final int N = 100;
+  static final int N = 100000;
 
 // Selection Sort
   public static void selectionSort(int[] A, int n) {
